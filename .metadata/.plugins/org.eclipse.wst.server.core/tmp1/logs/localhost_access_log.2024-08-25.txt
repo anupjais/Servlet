@@ -1,0 +1,13 @@
+127.0.0.1 - - [25/Aug/2024:23:25:59 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [25/Aug/2024:23:25:59 +0530] "GET /GenericServletExample/ HTTP/1.1" 200 52
+0:0:0:0:0:0:0:1 - - [25/Aug/2024:23:26:00 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [25/Aug/2024:23:27:58 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [25/Aug/2024:23:28:17 +0530] "GET /GenericServletExample/ HTTP/1.1" 200 52
+127.0.0.1 - - [25/Aug/2024:23:35:04 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [25/Aug/2024:23:35:05 +0530] "GET /GenericServletExample/ HTTP/1.1" 404 777
+0:0:0:0:0:0:0:1 - - [25/Aug/2024:23:35:12 +0530] "GET /GenericServletExample/Home HTTP/1.1" 404 781
+0:0:0:0:0:0:0:1 - - [25/Aug/2024:23:35:15 +0530] "GET /GenericServletExample/ HTTP/1.1" 404 777
+127.0.0.1 - - [25/Aug/2024:23:38:40 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [25/Aug/2024:23:38:41 +0530] "GET /GenericServletExample/ HTTP/1.1" 200 52
+0:0:0:0:0:0:0:1 - - [25/Aug/2024:23:38:47 +0530] "GET /GenericServletExample/home HTTP/1.1" 200 18
+0:0:0:0:0:0:0:1 - - [25/Aug/2024:23:38:53 +0530] "GET /GenericServletExample/ HTTP/1.1" 200 52
