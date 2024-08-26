@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="/Users/anupjaiswal/Desktop/Servlet/GetParameterExample"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -25,12 +26,20 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.qsp.ServletContextExample"/>
+			<item value="com.qsp.GetParameterExample"/>
+			<item value="com.qsp.PrintWriterExample"/>
+			<item value="com.qsp.GenericServletExample"/>
 			<item value="com.qsp.Servlet_Demo"/>
 		</list>
 		<list key="groupId">
 			<item value="com.qsp"/>
 		</list>
 		<list key="artifactId">
+			<item value="ServletContextExample"/>
+			<item value="GetParameterExample"/>
+			<item value="PrintWriterExample"/>
+			<item value="GenericServletExample"/>
 			<item value="Servlet_Demo"/>
 		</list>
 		<list key="projectNameTemplate">
