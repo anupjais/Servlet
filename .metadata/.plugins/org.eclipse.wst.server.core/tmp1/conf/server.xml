@@ -162,7 +162,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="/Users/anupjaiswal/Desktop/Servlet/.metadata/.plugins/org.eclipse.wst.server.core/tmp1/wtpwebapps/ROOT" path="" reloadable="false"/><Context docBase="/Users/anupjaiswal/Desktop/Servlet/.metadata/.plugins/org.eclipse.wst.server.core/tmp1/wtpwebapps/GenericServletExample" path="/GenericServletExample" reloadable="true" source="org.eclipse.jst.jee.server:GenericServletExample"/></Host>
+      <Context docBase="/Users/anupjaiswal/Desktop/Servlet/.metadata/.plugins/org.eclipse.wst.server.core/tmp1/wtpwebapps/ROOT" path="" reloadable="false"/><Context docBase="/Users/anupjaiswal/Desktop/Servlet/.metadata/.plugins/org.eclipse.wst.server.core/tmp1/wtpwebapps/GenericServletExample" path="/GenericServletExample" reloadable="true" source="org.eclipse.jst.jee.server:GenericServletExample"/><Context docBase="/Users/anupjaiswal/Desktop/Servlet/.metadata/.plugins/org.eclipse.wst.server.core/tmp1/wtpwebapps/PrintWriterExample" path="/PrintWriterExample" reloadable="true" source="org.eclipse.jst.jee.server:PrintWriterExample"/><Context docBase="/Users/anupjaiswal/Desktop/Servlet/.metadata/.plugins/org.eclipse.wst.server.core/tmp1/wtpwebapps/GetParameterExample" path="/GetParameterExample" reloadable="true" source="org.eclipse.jst.jee.server:GetParameterExample"/></Host>
     </Engine>
   </Service>
 </Server>

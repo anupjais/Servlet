@@ -11,3 +11,8 @@
 0:0:0:0:0:0:0:1 - - [25/Aug/2024:23:38:41 +0530] "GET /GenericServletExample/ HTTP/1.1" 200 52
 0:0:0:0:0:0:0:1 - - [25/Aug/2024:23:38:47 +0530] "GET /GenericServletExample/home HTTP/1.1" 200 18
 0:0:0:0:0:0:0:1 - - [25/Aug/2024:23:38:53 +0530] "GET /GenericServletExample/ HTTP/1.1" 200 52
+127.0.0.1 - - [25/Aug/2024:23:55:53 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [25/Aug/2024:23:55:53 +0530] "GET /PrintWriterExample/ HTTP/1.1" 200 53
+0:0:0:0:0:0:0:1 - - [25/Aug/2024:23:56:09 +0530] "GET /PrintWriterExample/reg HTTP/1.1" 200 78
+0:0:0:0:0:0:0:1 - - [25/Aug/2024:23:56:14 +0530] "GET /PrintWriterExample/Reg HTTP/1.1" 404 777
+0:0:0:0:0:0:0:1 - - [25/Aug/2024:23:56:20 +0530] "GET /PrintWriterExample/reg HTTP/1.1" 200 78
