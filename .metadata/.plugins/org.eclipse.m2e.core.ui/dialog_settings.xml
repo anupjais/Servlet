@@ -26,6 +26,10 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.qsp.JSPExample"/>
+			<item value="com.qsp.HttpSessionExample"/>
+			<item value="com.qsp.AnnotaionedQueryParameter"/>
+			<item value="com.qsp.WebServletAnnotationExample"/>
 			<item value="com.qsp.ServletContextExample"/>
 			<item value="com.qsp.GetParameterExample"/>
 			<item value="com.qsp.PrintWriterExample"/>
@@ -36,6 +40,10 @@
 			<item value="com.qsp"/>
 		</list>
 		<list key="artifactId">
+			<item value="JSPExample"/>
+			<item value="HttpSessionExample"/>
+			<item value="AnnotaionedQueryParameter"/>
+			<item value="WebServletAnnotationExample"/>
 			<item value="ServletContextExample"/>
 			<item value="GetParameterExample"/>
 			<item value="PrintWriterExample"/>
@@ -76,6 +84,14 @@
 	<section name="org.eclipse.m2e.core.ui.internal.wizards.CustomArchetypeDialog">
 	</section>
 	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>

@@ -10,6 +10,6 @@
 	</servlet>
 	<servlet-mapping>
 		<servlet-name>Registration</servlet-name>
-		<url-pattern>/reg</url-pattern>
+		<url-pattern>/registration</url-pattern>
 	</servlet-mapping>
 </web-app>

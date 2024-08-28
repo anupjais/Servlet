@@ -162,7 +162,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="GenericServletExample" path="/GenericServletExample" reloadable="true" source="org.eclipse.jst.jee.server:GenericServletExample"/><Context docBase="PrintWriterExample" path="/PrintWriterExample" reloadable="true" source="org.eclipse.jst.jee.server:PrintWriterExample"/><Context docBase="GetParameterExample" path="/GetParameterExample" reloadable="true" source="org.eclipse.jst.jee.server:GetParameterExample"/></Host>
+      <Context docBase="GenericServletExample" path="/GenericServletExample" reloadable="true" source="org.eclipse.jst.jee.server:GenericServletExample"/><Context docBase="PrintWriterExample" path="/PrintWriterExample" reloadable="true" source="org.eclipse.jst.jee.server:PrintWriterExample"/><Context docBase="GetParameterExample" path="/GetParameterExample" reloadable="true" source="org.eclipse.jst.jee.server:GetParameterExample"/><Context docBase="WebServletAnnotationExample" path="/WebServletAnnotationExample" reloadable="true" source="org.eclipse.jst.jee.server:WebServletAnnotationExample"/><Context docBase="AnnotaionedQueryParameter" path="/AnnotaionedQueryParameter" reloadable="true" source="org.eclipse.jst.jee.server:AnnotaionedQueryParameter"/><Context docBase="HttpSessionExample" path="/HttpSessionExample" reloadable="true" source="org.eclipse.jst.jee.server:HttpSessionExample"/><Context docBase="JSPExample" path="/JSPExample" reloadable="true" source="org.eclipse.jst.jee.server:JSPExample"/></Host>
     </Engine>
   </Service>
 </Server>
